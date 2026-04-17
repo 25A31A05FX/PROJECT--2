@@ -1,0 +1,45 @@
+ALGORITHM :
+
+START: Initialize the program and include necessary header files (iostream, fstream).
+MAIN MENU: Display available operations:
+1 New Account
+2 Deposit Amount
+3 Withdraw Amount
+4 Balance Enquiry
+5 All Account Holder List
+6 Close an Account
+7 Modify an Account
+8 Exit.
+USER CHOICE: Input choice via cin.
+SWITCH CASE:
+Case 1 (New Account): Input name, account number, and initial deposit 
+ Write data to binary file (ofstream).
+Case 2 (Deposit): Enter account number 
+ Search in file 
+ Update balance 
+ Save back to file.
+Case 3 (Withdraw): Enter account number 
+ Check if balance > withdrawal amount 
+ Update and save.
+Case 4 (Balance Enquiry): Enter account number 
+ Read from file 
+ Display account details.
+Case 5 (All List): Loop through file records 
+ Display all data.
+Case 6 (Close Account): Copy all records except the selected one to a temporary file 
+ Replace old file with temporary one.
+Case 7 (Modify): Search account 
+ Update details (name/type) 
+ Rewrite to file.
+Case 8 (Exit): Terminate program execution.
+REPEAT: Use a do-while loop to return to the Main Menu until "Exit" is chosen.
+
+
+
+Key Components & Functions
+Account Class: Contains data members like acno, name, deposit, and type.
+File Handling: Uses C++ File Streams to manage persistent data in .dat or .txt files.
+Validation: Ensures minimum balance requirements (e.g., 
+ for Savings, 
+ for Current).
+
