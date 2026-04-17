@@ -1,0 +1,30 @@
+📊Methodology – Bank Management System
+🔹 1. Planning Phase
+Identify project objectives and scope
+Understand banking operations (accounts, transactions, loans)
+Decide required modules and features
+🔹 2. Requirement Analysis
+Collect functional and non-functional requirements
+Identify user roles (Admin, Staff, Customer)
+Analyze system needs and constraints
+🔹 3. System Design
+Design system architecture (frontend, backend, database)
+Create ER diagrams and Data Flow Diagrams (DFD)
+Plan database tables (customers, accounts, transactions)
+🔹 4. Implementation (Coding)
+Develop modules using programming language (C++/Java/Python)
+Create database and connect it with application
+Implement features like login, deposit, withdrawal, transfer
+🔹 5. Testing
+Perform unit testing for each module
+Check for errors and bugs
+Ensure all functionalities work correctly
+🔹 6. Deployment
+Install the system on the required environment
+Make it ready for users (bank staff/customers)
+🔹 7. Maintenance
+Fix bugs and errors after deployment
+Update system features if needed
+Improve performance and security
+
+
