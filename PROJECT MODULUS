@@ -1,0 +1,32 @@
+📊 Modules in Bank Management System
+1. User Management Module :
+            Handles login, logout, and authentication
+            Manages roles (admin, staff, customer)
+2. Customer Management Module :
+            Add, update, delete customer details
+            Stores personal and account information
+3. Account Management Module :
+           Create new bank accounts
+           Manage account types (savings, current)
+           View account details
+4. Transaction Module :
+            Deposit money
+            Withdraw money
+            Transfer funds between accounts
+5. Loan Management Module :
+          Apply for loans
+          Approve/reject loans
+          Track loan details and repayments
+6. Balance Inquiry Module :
+         Check account balance
+         View mini statements
+7. Interest Calculation Module :
+        Calculate interest for savings or loans
+8. Report Generation Module :
+      Generate account reports
+      Transaction history reports
+      Monthly/annual summaries
+9. Security Module :
+         Password protection
+         Data encryption
+        Fraud detection (basic level)
