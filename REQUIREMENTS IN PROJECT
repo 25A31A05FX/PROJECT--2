@@ -1,0 +1,35 @@
+📋Bank Management System – Requirements
+🔹 1. Functional Requirements	
+          (What the system should do)
+           User login and authentication (Admin/Staff/Customer)
+           Create and manage customer accounts
+           Deposit and withdraw money
+           Transfer funds between accounts
+           Check account balance
+Maintain transaction history
+          Loan application and approval process
+          Interest calculation for accounts/loans
+          Generate reports (transactions, customer details)
+🔹 2. Non-Functional Requirements
+           (How the system should perform)
+         Security: Data should be protected with passwords and encryption
+         Performance: Fast processing of transactions
+         Reliability: Accurate and error-free operations
+         Scalability: Can handle many users/accounts
+         Usability: Easy to use interface
+         Availability: System should be available most of the time
+🔹 3. Hardware Requirements
+          Computer/Laptop
+           Minimum 4 GB RAM
+         Hard disk (at least 500 GB recommended)
+         Internet connection (optional for basic project)
+🔹 4. Software Requirements
+       Operating System: Windows / Linux / macOS
+        Programming Language: C++, Java, Python, etc.
+       Database: MySQL / Oracle / SQLite
+       IDE: Code::Blocks / VS Code / Eclipse / NetBeans
+🔹 5. User Requirements
+    Basic computer knowledge
+   Login credentials to access the system
+   Authorization based on role (admin, staff, user)
+
